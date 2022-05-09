@@ -12,7 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-		"bower-asset/flag-icon-css": "*"
+		"bower-asset/flag-icon-css": "~4.1.5"
     },
     "autoload": {
         "psr-4": {
